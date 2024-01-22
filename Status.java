@@ -4,3 +4,4 @@ abstract class Status {
     public abstract void buy(Customer c, double sum);
 
 }
+ 
