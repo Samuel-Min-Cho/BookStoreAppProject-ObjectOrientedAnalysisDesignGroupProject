@@ -1,5 +1,5 @@
 # Silver
-public class Silver extends Status {
+public class Silver extends Status { 
 
     @Override
     public void buy(Customer c, double sum) {
