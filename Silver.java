@@ -1,6 +1,4 @@
 # Silver
-
-```java
 public class Silver extends Status {
 
     @Override
