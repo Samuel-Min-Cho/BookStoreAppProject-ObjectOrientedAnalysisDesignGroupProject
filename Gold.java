@@ -1,5 +1,5 @@
 public class Gold extends Status {
-
+ 
     @Override
     public void buy(Customer c, double sum) {
 
