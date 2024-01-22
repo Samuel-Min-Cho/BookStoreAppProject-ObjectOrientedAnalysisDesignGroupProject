@@ -24,7 +24,7 @@ import javafx.scene.control.TableView;
 import javafx.scene.control.cell.CheckBoxTableCell;
 import javafx.scene.control.TableView.TableViewSelectionModel;
 import java.text.DecimalFormat;
-import java.util.HashSet;
+import java.util.HashSet; 
 
 public class BookStore extends Application {
 
