@@ -5,7 +5,7 @@ public class Customer {
     //private static final DecimalFormat df = new DecimalFormat("0.00");
     
     /* Instance variables */
-    private String username;
+    private String username; 
     private String password;
     private String points;
     private Status myStatus;
