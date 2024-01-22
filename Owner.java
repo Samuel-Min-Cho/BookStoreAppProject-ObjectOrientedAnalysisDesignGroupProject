@@ -12,7 +12,7 @@ public class Owner {
     }
 
     // SINGLETON DESIGN
-    public static Owner getInstance() {
+    public static Owner getInstance() { 
         if (instance == null) {
             instance = new Owner();
         }
